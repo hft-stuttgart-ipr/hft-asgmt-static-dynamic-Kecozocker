@@ -1,4 +1,4 @@
-![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-static-dynamic-USERNAME/workflows/GitHub%20Classroom%20Workflow/badge.svg)
+![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-static-dynamic-Kecozocker/workflows/GitHub%20Classroom%20Workflow/badge.svg)
 
 # hft-asgmt-static-dynamic
 
